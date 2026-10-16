@@ -106,6 +106,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-b191a6) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [qwen-image-3-0-pro-prompts-de](https://github.com/kcqkgc4m/qwen-image-3-0-pro-prompts-de)
+- **Same model, other languages** — 9 more language builds: 中文 [qwen-image-3-0-pro-api-cn](https://github.com/cnc4l4x4p3ndb0/qwen-image-3-0-pro-api-cn) · Español [qwen-image-3-0-pro-api-es](https://github.com/flm74hfs6gr5/qwen-image-3-0-pro-api-es) · Français [qwen-image-3-0-pro-api-fr](https://github.com/z3phc/qwen-image-3-0-pro-api-fr) · Relay/gateway [qwen-image-3-0-pro-api-gateway](https://github.com/pzlp9carpi/qwen-image-3-0-pro-api-gateway) · Bahasa `qwen-image-3-0-pro-api-id` · 日本語 [qwen-image-3-0-pro-api-ja](https://github.com/cae0venx1p0/qwen-image-3-0-pro-api-ja) · 한국어 [qwen-image-3-0-pro-api-ko](https://github.com/n80bh8gycesx4t/qwen-image-3-0-pro-api-ko) · Português [qwen-image-3-0-pro-api-pt](https://github.com/c7686676/qwen-image-3-0-pro-api-pt) · Русский `qwen-image-3-0-pro-api-ru`
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [qwen-image-3-0-pro](https://github.com/topics/qwen-image-3-0-pro) · [qwen-image-3-0-pro-api](https://github.com/topics/qwen-image-3-0-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
